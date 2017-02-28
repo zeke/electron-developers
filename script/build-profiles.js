@@ -9,7 +9,7 @@ const ghUser = require('gh-user')
 const users = require('../usernames.json')
 
 users
-.slice(0,3)
+// .slice(0,3)
 .forEach(user => {
   const username = user.user
   const cachedFile = path.join(__dirname, `../profiles/${username}.json`)
