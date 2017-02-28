@@ -1,0 +1,27 @@
+{
+  "name": "electron-developers",
+  "version": "1.0.0",
+  "description": "A collection of GitHub profiles for users who work on Electron-related projects",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/electron-developers",
+  "author": "zeke",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "count-array-values": "^1.2.1",
+    "dotenv-safe": "^4.0.3",
+    "gh-user": "^2.2.0",
+    "limiter": "^1.1.0",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "npm-run-all": "^4.0.2",
+    "repos-using-electron": "^1.11.0",
+    "standard": "^8.6.0",
+    "standard-markdown": "^2.3.0"
+  },
+  "scripts": {
+    "build": "npm-run-all build:*",
+    "build:usernames": "node script/build-usernames.js > usernames.json",
+    "build:profiles": "node script/build-profiles.js"
+  }
+}
