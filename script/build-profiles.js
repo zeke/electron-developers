@@ -1,6 +1,5 @@
 require('dotenv-safe').load()
 
-const {chain} = require('lodash')
 const fs = require('fs')
 const path = require('path')
 const RateLimiter = require('limiter').RateLimiter
