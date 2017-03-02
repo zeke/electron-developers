@@ -8,8 +8,8 @@ describe('developers', () => {
     expect(developers).to.be.an('array')
   })
 
-  it('includes over 5000 user profiles', () => {
-    expect(developers.length).to.be.above(5000)
+  it('includes over 11000 user profiles', () => {
+    expect(developers.length).to.be.above(11000)
   })
 
   it('sorts the array by repo count, descending', () => {
