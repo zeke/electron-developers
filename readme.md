@@ -190,7 +190,6 @@ Login | Name | Company | Location | Repos
 [@vincelwt](https://github.com/vincelwt) | Vincent |  | France | 1
 [@Daandelange](https://github.com/Daandelange) | Daan de Lange | @Karma-Kusala  | France | 1
 [@w8r](https://github.com/w8r) | Alexander Milevski | Wikimapia | Paris | 1
-[@welcoMattic](https://github.com/welcoMattic) | Mathieu Santo Stefano--Féron | JoliCode | Paris | 1
 [@DanGeffroy](https://github.com/DanGeffroy) | Dan Geffroy |  | Nantes / France | 1
 [@yadomi](https://github.com/yadomi) | Felix Yadomi | @ThunderCake   | France | 1
 [@ale-batt](https://github.com/ale-batt) | Albert Le Batteux | 42 | Paris | 1
