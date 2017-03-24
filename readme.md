@@ -101,7 +101,6 @@ Login | Name | Company | Location | Repos
 [@cpayen](https://github.com/cpayen) | Camille Payen |  | Rouen, France | 1
 [@cyrilschumacher](https://github.com/cyrilschumacher) | Cyril Schumacher |  | France | 1
 [@dcarlus](https://github.com/dcarlus) | Denis CARLUS |  | France | 1
-[@edouard-lopez](https://github.com/edouard-lopez) | Édouard Lopez | Web Stack Developer (Freelance) | France | 1
 [@JiDW](https://github.com/JiDW) | Mathias Latournerie | Celsius online | Paris | 1
 [@enguerranws](https://github.com/enguerranws) | Enguerran Weiss |  | France | 1
 [@JulienTant](https://github.com/JulienTant) | Julien Tant | Freelance | Paris, France | 1
