@@ -12,6 +12,12 @@ describe('developers', () => {
     expect(developers.length).to.be.above(11000)
   })
 
+  it('does not contain blacklisted usernames', () => {
+    const usernames = require('./usernames').map(username => username.user)
+    expect(usernames).to.include('zeke')
+    expect(usernames).to.not.include('istx25')
+  })
+
   it('sorts the array by repo count, descending', () => {
     expect(developers[0].repos).to.be.above(10)
     expect(developers[0].repos).to.be.above(developers[10].repos)
