@@ -1,6 +1,6 @@
 {
   "name": "electron-developers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of GitHub profiles for users who work on Electron-related projects",
   "main": "index.json",
   "repository": "https://github.com/zeke/electron-developers",
