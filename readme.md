@@ -111,7 +111,6 @@ Login | Name | Company | Location | Repos
 [@florianorpeliere](https://github.com/florianorpeliere) | Florian Orpelière | SFEIR | France | 1
 [@frntn](https://github.com/frntn) | Matthieu Fronton | Ekino | Paris | 1
 [@BenjaminBini](https://github.com/BenjaminBini) | Benjamin Bini | Sully Group | Strasbourg, France | 1
-[@AbelIngrand](https://github.com/AbelIngrand) | Abel Ingrand | iKiwi | Toulouse, France | 1
 [@genki81](https://github.com/genki81) | Thomas BILLARD |  | France | 1
 [@geowarin](https://github.com/geowarin) | Geoffroy Warin | Freelancer | Paris, France | 1
 [@glafarge](https://github.com/glafarge) | Guillaume Lafarge | PRYSME | Bordeaux, France | 1
