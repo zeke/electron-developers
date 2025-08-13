@@ -51,7 +51,6 @@ Login | Name | Company | Location | Repos
 [@gabrielstuff](https://github.com/gabrielstuff) | Gabriel | Soixante circuits | Paris, France | 4
 [@MichelKansou](https://github.com/MichelKansou) | Michel Kansou |  | France | 4
 [@Haroenv](https://github.com/Haroenv) | Haroen Viaene | intern @algolia | Paris, France | 4
-[@Cyriaqu3](https://github.com/Cyriaqu3) | Cyriaque DELAUNAY |  | France | 4
 [@Bernardstanislas](https://github.com/Bernardstanislas) | Stanislas Bernard | @theodo  | Paris, France | 3
 [@Aelto](https://github.com/Aelto) | Thibault H |  | France | 3
 [@clementlamoureux](https://github.com/clementlamoureux) | Clément Lamoureux |  | Bordeaux, France | 2
